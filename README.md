@@ -1,3 +1,3 @@
 # 8512_G1_ISW
 8512 Ingenieria de Sw I
-ARIAS OJEDA ESTEBAN RENE
+Dar acceso a repositorio  grupo de trabajo y docente tutora 
